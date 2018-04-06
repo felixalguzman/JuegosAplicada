@@ -1,0 +1,3412 @@
+fileFormatVersion: 2
+guid: dcbf63da5bdc17f4db33c16919742bd1
+timeCreated: 1520871397
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AngryBirdsSpriteSheet_0
+    21300002: AngryBirdsSpriteSheet_1
+    21300004: AngryBirdsSpriteSheet_2
+    21300006: AngryBirdsSpriteSheet_3
+    21300008: AngryBirdsSpriteSheet_4
+    21300010: AngryBirdsSpriteSheet_5
+    21300012: AngryBirdsSpriteSheet_6
+    21300014: AngryBirdsSpriteSheet_7
+    21300016: AngryBirdsSpriteSheet_8
+    21300018: AngryBirdsSpriteSheet_9
+    21300020: AngryBirdsSpriteSheet_10
+    21300022: AngryBirdsSpriteSheet_11
+    21300024: AngryBirdsSpriteSheet_12
+    21300026: AngryBirdsSpriteSheet_13
+    21300028: AngryBirdsSpriteSheet_14
+    21300030: AngryBirdsSpriteSheet_15
+    21300032: AngryBirdsSpriteSheet_16
+    21300034: AngryBirdsSpriteSheet_17
+    21300036: AngryBirdsSpriteSheet_18
+    21300038: AngryBirdsSpriteSheet_19
+    21300040: AngryBirdsSpriteSheet_20
+    21300042: AngryBirdsSpriteSheet_21
+    21300044: AngryBirdsSpriteSheet_22
+    21300046: AngryBirdsSpriteSheet_23
+    21300048: AngryBirdsSpriteSheet_24
+    21300050: AngryBirdsSpriteSheet_25
+    21300052: AngryBirdsSpriteSheet_26
+    21300054: AngryBirdsSpriteSheet_27
+    21300056: AngryBirdsSpriteSheet_28
+    21300058: AngryBirdsSpriteSheet_29
+    21300060: AngryBirdsSpriteSheet_30
+    21300062: AngryBirdsSpriteSheet_31
+    21300064: AngryBirdsSpriteSheet_32
+    21300066: AngryBirdsSpriteSheet_33
+    21300068: AngryBirdsSpriteSheet_34
+    21300070: AngryBirdsSpriteSheet_35
+    21300072: AngryBirdsSpriteSheet_36
+    21300074: AngryBirdsSpriteSheet_37
+    21300076: AngryBirdsSpriteSheet_38
+    21300078: AngryBirdsSpriteSheet_39
+    21300080: AngryBirdsSpriteSheet_40
+    21300082: AngryBirdsSpriteSheet_41
+    21300084: AngryBirdsSpriteSheet_42
+    21300086: AngryBirdsSpriteSheet_43
+    21300088: AngryBirdsSpriteSheet_44
+    21300090: AngryBirdsSpriteSheet_45
+    21300092: AngryBirdsSpriteSheet_46
+    21300094: AngryBirdsSpriteSheet_47
+    21300096: AngryBirdsSpriteSheet_48
+    21300098: AngryBirdsSpriteSheet_49
+    21300100: AngryBirdsSpriteSheet_50
+    21300102: AngryBirdsSpriteSheet_51
+    21300104: AngryBirdsSpriteSheet_52
+    21300106: AngryBirdsSpriteSheet_53
+    21300108: AngryBirdsSpriteSheet_54
+    21300110: AngryBirdsSpriteSheet_55
+    21300112: AngryBirdsSpriteSheet_56
+    21300114: AngryBirdsSpriteSheet_57
+    21300116: AngryBirdsSpriteSheet_58
+    21300118: AngryBirdsSpriteSheet_59
+    21300120: AngryBirdsSpriteSheet_60
+    21300122: AngryBirdsSpriteSheet_61
+    21300124: AngryBirdsSpriteSheet_62
+    21300126: AngryBirdsSpriteSheet_63
+    21300128: AngryBirdsSpriteSheet_64
+    21300130: AngryBirdsSpriteSheet_65
+    21300132: AngryBirdsSpriteSheet_66
+    21300134: AngryBirdsSpriteSheet_67
+    21300136: AngryBirdsSpriteSheet_68
+    21300138: AngryBirdsSpriteSheet_69
+    21300140: AngryBirdsSpriteSheet_70
+    21300142: AngryBirdsSpriteSheet_71
+    21300144: AngryBirdsSpriteSheet_72
+    21300146: AngryBirdsSpriteSheet_73
+    21300148: AngryBirdsSpriteSheet_74
+    21300150: AngryBirdsSpriteSheet_75
+    21300152: AngryBirdsSpriteSheet_76
+    21300154: AngryBirdsSpriteSheet_77
+    21300156: AngryBirdsSpriteSheet_78
+    21300158: AngryBirdsSpriteSheet_79
+    21300160: AngryBirdsSpriteSheet_80
+    21300162: AngryBirdsSpriteSheet_81
+    21300164: AngryBirdsSpriteSheet_82
+    21300166: AngryBirdsSpriteSheet_83
+    21300168: AngryBirdsSpriteSheet_84
+    21300170: AngryBirdsSpriteSheet_85
+    21300172: AngryBirdsSpriteSheet_86
+    21300174: AngryBirdsSpriteSheet_87
+    21300176: AngryBirdsSpriteSheet_88
+    21300178: AngryBirdsSpriteSheet_89
+    21300180: AngryBirdsSpriteSheet_90
+    21300182: AngryBirdsSpriteSheet_91
+    21300184: AngryBirdsSpriteSheet_92
+    21300186: AngryBirdsSpriteSheet_93
+    21300188: AngryBirdsSpriteSheet_94
+    21300190: AngryBirdsSpriteSheet_95
+    21300192: AngryBirdsSpriteSheet_96
+    21300194: AngryBirdsSpriteSheet_97
+    21300196: AngryBirdsSpriteSheet_98
+    21300198: AngryBirdsSpriteSheet_99
+    21300200: AngryBirdsSpriteSheet_100
+    21300202: AngryBirdsSpriteSheet_101
+    21300204: AngryBirdsSpriteSheet_102
+    21300206: AngryBirdsSpriteSheet_103
+    21300208: AngryBirdsSpriteSheet_104
+    21300210: AngryBirdsSpriteSheet_105
+    21300212: AngryBirdsSpriteSheet_106
+    21300214: AngryBirdsSpriteSheet_107
+    21300216: AngryBirdsSpriteSheet_108
+    21300218: AngryBirdsSpriteSheet_109
+    21300220: AngryBirdsSpriteSheet_110
+    21300222: AngryBirdsSpriteSheet_111
+    21300224: AngryBirdsSpriteSheet_112
+    21300226: AngryBirdsSpriteSheet_113
+    21300228: AngryBirdsSpriteSheet_114
+    21300230: AngryBirdsSpriteSheet_115
+    21300232: AngryBirdsSpriteSheet_116
+    21300234: AngryBirdsSpriteSheet_117
+    21300236: AngryBirdsSpriteSheet_118
+    21300238: AngryBirdsSpriteSheet_119
+    21300240: AngryBirdsSpriteSheet_120
+    21300242: AngryBirdsSpriteSheet_121
+    21300244: AngryBirdsSpriteSheet_122
+    21300246: AngryBirdsSpriteSheet_123
+    21300248: AngryBirdsSpriteSheet_124
+    21300250: AngryBirdsSpriteSheet_125
+    21300252: AngryBirdsSpriteSheet_126
+    21300254: AngryBirdsSpriteSheet_127
+    21300256: AngryBirdsSpriteSheet_128
+    21300258: AngryBirdsSpriteSheet_129
+    21300260: AngryBirdsSpriteSheet_130
+    21300262: AngryBirdsSpriteSheet_131
+    21300264: AngryBirdsSpriteSheet_132
+    21300266: AngryBirdsSpriteSheet_133
+    21300268: AngryBirdsSpriteSheet_134
+    21300270: AngryBirdsSpriteSheet_135
+    21300272: AngryBirdsSpriteSheet_136
+    21300274: AngryBirdsSpriteSheet_137
+    21300276: AngryBirdsSpriteSheet_138
+    21300278: AngryBirdsSpriteSheet_139
+    21300280: AngryBirdsSpriteSheet_140
+    21300282: AngryBirdsSpriteSheet_141
+    21300284: AngryBirdsSpriteSheet_142
+    21300286: AngryBirdsSpriteSheet_143
+    21300288: AngryBirdsSpriteSheet_144
+    21300290: AngryBirdsSpriteSheet_145
+    21300292: AngryBirdsSpriteSheet_146
+    21300294: AngryBirdsSpriteSheet_147
+    21300296: AngryBirdsSpriteSheet_148
+    21300298: AngryBirdsSpriteSheet_149
+    21300300: AngryBirdsSpriteSheet_150
+    21300302: AngryBirdsSpriteSheet_151
+    21300304: AngryBirdsSpriteSheet_152
+    21300306: AngryBirdsSpriteSheet_153
+    21300308: AngryBirdsSpriteSheet_154
+    21300310: AngryBirdsSpriteSheet_155
+    21300312: AngryBirdsSpriteSheet_156
+    21300314: AngryBirdsSpriteSheet_157
+    21300316: AngryBirdsSpriteSheet_158
+    21300318: AngryBirdsSpriteSheet_159
+    21300320: AngryBirdsSpriteSheet_160
+    21300322: AngryBirdsSpriteSheet_161
+    21300324: AngryBirdsSpriteSheet_162
+    21300326: AngryBirdsSpriteSheet_163
+    21300328: AngryBirdsSpriteSheet_164
+    21300330: AngryBirdsSpriteSheet_165
+    21300332: AngryBirdsSpriteSheet_166
+    21300334: AngryBirdsSpriteSheet_167
+    21300336: AngryBirdsSpriteSheet_168
+    21300338: AngryBirdsSpriteSheet_169
+    21300340: AngryBirdsSpriteSheet_170
+    21300342: AngryBirdsSpriteSheet_171
+    21300344: AngryBirdsSpriteSheet_172
+    21300346: AngryBirdsSpriteSheet_173
+    21300348: AngryBirdsSpriteSheet_174
+    21300350: AngryBirdsSpriteSheet_175
+    21300352: AngryBirdsSpriteSheet_176
+    21300354: AngryBirdsSpriteSheet_177
+    21300356: AngryBirdsSpriteSheet_178
+    21300358: AngryBirdsSpriteSheet_179
+    21300360: AngryBirdsSpriteSheet_180
+    21300362: AngryBirdsSpriteSheet_181
+    21300364: AngryBirdsSpriteSheet_182
+    21300366: AngryBirdsSpriteSheet_183
+    21300368: AngryBirdsSpriteSheet_184
+    21300370: AngryBirdsSpriteSheet_185
+    21300372: AngryBirdsSpriteSheet_186
+    21300374: AngryBirdsSpriteSheet_187
+    21300376: AngryBirdsSpriteSheet_188
+    21300378: AngryBirdsSpriteSheet_189
+    21300380: AngryBirdsSpriteSheet_190
+    21300382: AngryBirdsSpriteSheet_191
+    21300384: AngryBirdsSpriteSheet_192
+    21300386: AngryBirdsSpriteSheet_193
+    21300388: AngryBirdsSpriteSheet_194
+    21300390: AngryBirdsSpriteSheet_195
+    21300392: AngryBirdsSpriteSheet_196
+    21300394: AngryBirdsSpriteSheet_197
+    21300396: AngryBirdsSpriteSheet_198
+    21300398: AngryBirdsSpriteSheet_199
+    21300400: AngryBirdsSpriteSheet_200
+    21300402: AngryBirdsSpriteSheet_201
+    21300404: AngryBirdsSpriteSheet_202
+    21300406: AngryBirdsSpriteSheet_203
+    21300408: AngryBirdsSpriteSheet_204
+    21300410: AngryBirdsSpriteSheet_205
+    21300412: AngryBirdsSpriteSheet_206
+    21300414: AngryBirdsSpriteSheet_207
+    21300416: AngryBirdsSpriteSheet_208
+    21300418: AngryBirdsSpriteSheet_209
+    21300420: AngryBirdsSpriteSheet_210
+    21300422: AngryBirdsSpriteSheet_211
+    21300424: AngryBirdsSpriteSheet_212
+    21300426: AngryBirdsSpriteSheet_213
+    21300428: AngryBirdsSpriteSheet_214
+    21300430: AngryBirdsSpriteSheet_215
+    21300432: AngryBirdsSpriteSheet_216
+    21300434: AngryBirdsSpriteSheet_217
+    21300436: AngryBirdsSpriteSheet_218
+    21300438: AngryBirdsSpriteSheet_219
+    21300440: AngryBirdsSpriteSheet_220
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 899
+        width: 40
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 985
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 985
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 985
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 985
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 985
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 985
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 985
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1015
+        width: 45
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1129
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1130
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 840
+        width: 342
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 842
+        width: 330
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 929
+        width: 59
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1004
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 829
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 959
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 967
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 933
+        width: 109
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 874
+        width: 117
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 882
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 882
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 882
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 882
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 864
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 893
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 892
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 888
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 853
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 829
+        width: 68
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 895
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 860
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 845
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 863
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 826
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 745
+        width: 110
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 747
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 748
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 750
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 750
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 750
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 751
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 751
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 707
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 726
+        width: 99
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 717
+        width: 114
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 828
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 794
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 673
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 631
+        width: 169
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 723
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 794
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 795
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 691
+        width: 39
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 775
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 758
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 756
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 761
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 643
+        width: 110
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 647
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 652
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 655
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 661
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 661
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 661
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 661
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 698
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 586
+        width: 101
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 618
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 624
+        width: 130
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 641
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 660
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 624
+        width: 104
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 625
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 625
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 542
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 549
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 556
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 570
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 570
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 571
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 571
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 571
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 607
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 541
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 540
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 595
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 581
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 552
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 423
+        width: 180
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 534
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 530
+        width: 126
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 550
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 564
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 556
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 485
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 486
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 489
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 488
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 490
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 490
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 495
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 467
+        width: 100
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 532
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 526
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 533
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 440
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 448
+        width: 89
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 460
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 501
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 450
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 457
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 463
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 464
+        width: 138
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 484
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 469
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 469
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 467
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 479
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 400
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 429
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 410
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 411
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 411
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_125
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 439
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_127
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 438
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_128
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 438
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_129
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 309
+        width: 127
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 365
+        width: 56
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_131
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 378
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_132
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 414
+        width: 106
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_133
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 352
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 456
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_135
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 452
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_136
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 403
+        width: 94
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_137
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 420
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_138
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 384
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_139
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 452
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_140
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 350
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_141
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 366
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_142
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 441
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_143
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 442
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 406
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_145
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 411
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_146
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 340
+        width: 109
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_147
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 426
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_148
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 427
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_149
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 372
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_150
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 301
+        width: 105
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_151
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 332
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_152
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 412
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_153
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 413
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_154
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 381
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_155
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 379
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_156
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 331
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_157
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 336
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_158
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 343
+        width: 105
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_159
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 343
+        width: 104
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_160
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 402
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_161
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 398
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_162
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 402
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_163
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 353
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_164
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 353
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_165
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 270
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_166
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 315
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_167
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 315
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_168
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 298
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_169
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 311
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_170
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 339
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_171
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 345
+        width: 142
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 274
+        width: 39
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_173
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 192
+        width: 117
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_174
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 240
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_175
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 251
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_176
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 231
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_177
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 266
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_178
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 253
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_179
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 283
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_180
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 275
+        width: 104
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_181
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 295
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_182
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 293
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_183
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 296
+        width: 77
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_184
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 299
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_185
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 298
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_186
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_187
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 178
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_188
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 216
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_189
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 234
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_190
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 146
+        width: 137
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_191
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 227
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_192
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 227
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_193
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 237
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_194
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 239
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_195
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 154
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_196
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 176
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_197
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_198
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 195
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_199
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 140
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_200
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 147
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_201
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 167
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_202
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 186
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_203
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 179
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_204
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 181
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_205
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 163
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_206
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 135
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_207
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 133
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_208
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 134
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_209
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 133
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_210
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 136
+        width: 82
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_211
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 138
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_212
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 134
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_213
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 153
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_214
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_215
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 143
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_216
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 131
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_217
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 131
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_218
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 520
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_219
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 937
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryBirdsSpriteSheet_220
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1014
+        width: 50
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1481 @@
+fileFormatVersion: 2
+guid: 2a94c70b0a63fb84093edd72ef4167ee
+timeCreated: 1516980141
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_0
+    21300002: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_1
+    21300004: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_2
+    21300006: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_3
+    21300008: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_4
+    21300010: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_5
+    21300012: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_6
+    21300014: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_7
+    21300016: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_8
+    21300018: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_9
+    21300020: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_10
+    21300022: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_11
+    21300024: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_12
+    21300026: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_13
+    21300028: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_14
+    21300030: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_15
+    21300032: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_16
+    21300034: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_17
+    21300036: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_18
+    21300038: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_19
+    21300040: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_20
+    21300042: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_21
+    21300044: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_22
+    21300046: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_23
+    21300048: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_24
+    21300050: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_25
+    21300052: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_26
+    21300054: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_27
+    21300056: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_28
+    21300058: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_29
+    21300060: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_30
+    21300062: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_31
+    21300064: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_32
+    21300066: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_33
+    21300068: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_34
+    21300070: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_35
+    21300072: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_36
+    21300074: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_37
+    21300076: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_38
+    21300078: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_39
+    21300080: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_40
+    21300082: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_41
+    21300084: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_42
+    21300086: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_43
+    21300088: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_44
+    21300090: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_45
+    21300092: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_46
+    21300094: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_47
+    21300096: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_48
+    21300098: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_49
+    21300100: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_50
+    21300102: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_51
+    21300104: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_52
+    21300106: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_53
+    21300108: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_54
+    21300110: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_55
+    21300112: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_56
+    21300114: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_57
+    21300116: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_58
+    21300118: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_59
+    21300120: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_60
+    21300122: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_61
+    21300124: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_62
+    21300126: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_63
+    21300128: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_64
+    21300130: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_65
+    21300132: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_66
+    21300134: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_67
+    21300136: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_68
+    21300138: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_69
+    21300140: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_70
+    21300142: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_71
+    21300144: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_72
+    21300146: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_73
+    21300148: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_74
+    21300150: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_75
+    21300152: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_76
+    21300154: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_77
+    21300156: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_78
+    21300158: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_79
+    21300160: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_80
+    21300162: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_81
+    21300164: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_82
+    21300166: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_83
+    21300168: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_84
+    21300170: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_85
+    21300172: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_86
+    21300174: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_87
+    21300176: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_88
+    21300178: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_89
+    21300180: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_90
+    21300182: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_91
+    21300184: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_92
+    21300186: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_93
+    21300188: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_94
+    21300190: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_95
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_0
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 276
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_1
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 276
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_2
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 267
+        width: 256
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 232
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 232
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 232
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 233
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 233
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 263
+        width: 56
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_9
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 250
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_10
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 250
+        width: 59
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 209
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_12
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 234
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_13
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 230
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_14
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 228
+        width: 74
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 176
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 212
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 176
+        width: 67
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_18
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 212
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_19
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 210
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_20
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 212
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 177
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_22
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 176
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_23
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 178
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_24
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 122
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_25
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 176
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_27
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 182
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_28
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 184
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 144
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_30
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 139
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 139
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 130
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_33
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 139
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_34
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 160
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_35
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 125
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_36
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 143
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_37
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 144
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_38
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 128
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_39
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 127
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_40
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 138
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_41
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 138
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_42
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 138
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_43
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 133
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_44
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 133
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_45
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 131
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_46
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 131
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_47
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 128
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_48
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 128
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_49
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 128
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_50
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 127
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_51
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 49
+        width: 256
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_52
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 102
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 101
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_54
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 102
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_55
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 86
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_56
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 96
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_57
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 96
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_58
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 85
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_59
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 87
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_60
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 88
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_61
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 99
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_62
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 88
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_63
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 99
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_64
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 91
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_65
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 91
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_66
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 88
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_67
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 88
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_68
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 88
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_69
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 88
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_70
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 59
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_71
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 58
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_72
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 59
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_73
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 43
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_74
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 55
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_75
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 55
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_76
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 44
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_77
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 43
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_78
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 44
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_79
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 55
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_80
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 44
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_81
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 55
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_82
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 48
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_83
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 48
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_84
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 47
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_85
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 47
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_86
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 44
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_87
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 44
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_91
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 16
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_92
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 26
+        width: 113
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_95
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 6
+        width: 113
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Duck Hunt Customs - Duck Hunt Remade_88
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 12
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
